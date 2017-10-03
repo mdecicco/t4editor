@@ -1,0 +1,6 @@
+[submodule "T4Loader"]
+	path = T4Loader
+	url = https://github.com/mdecicco/T4Loader.git
+[submodule "r2"]
+	path = r2
+	url = https://github.com/mdecicco/r2.git
